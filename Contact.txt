@@ -1,8 +1,5 @@
 Contact Info
 
 David.Mcdonald@microsoft.com
-
-bhurst@microsoft.com
-
-Carlton.Colter@microsoft.com
+Alex.Starykh@microsoft.com
 
